@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Öykü Naz Ergelen 👋
 
-<!--
-**oykunazergelen/oykunazergelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **2nd year Software Engineering student**  
+🌐 Also studying **Web Design and Coding** through an open education program  
+💻 I enjoy building **modern, clean, responsive** web interfaces  
+🚀 Currently working on my **portfolio website** and beginner full-stack projects  
+📚 Learning: **HTML, CSS, JavaScript, Node.js and C**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- HTML / CSS
+- JavaScript
+- Node.js / Express
+- C/C++
+- Git & GitHub
+
+---
+
+## 📫 Connect with Me
+🔗 LinkedIn: https://linkedin.com/in/oykunazergelen  
+🐙 GitHub: https://github.com/oykunazergelen  
+
+---
