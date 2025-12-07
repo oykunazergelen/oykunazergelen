@@ -18,7 +18,7 @@
 ---
 
 ## 📫 Connect with Me
-🔗 LinkedIn: https://linkedin.com/in/oykunazergelen  
+🔗 LinkedIn: https://www.linkedin.com/in/%C3%B6yk%C3%BC-naz-ergelen-784960334/
 🐙 GitHub: https://github.com/oykunazergelen  
 
 ---
