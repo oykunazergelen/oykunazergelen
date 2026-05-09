@@ -11,6 +11,8 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/oykunazergelen?cardType=level-alternate&theme=midnight-purple&fontFamily=Bitcount%20Prop%20Single%20Ink&preferLogin=false)](https://git.io/awesome-stats-card)
 [![GitHub Streak](https://streak-stats.demolab.com?user=oykunazergelen&theme=carbonfox&fontFamily=Bitcount&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oykunazergelen&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![oykunazergelen's Language stats](https://github-stats-card-generator.vercel.app/api/svg?username=oykunazergelen&type=languages&theme=dracula&chart=bars)
+![oykunazergelen's Contribution stats](https://github-stats-card-generator.vercel.app/api/svg?username=oykunazergelen&type=contributions&theme=dracula)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
