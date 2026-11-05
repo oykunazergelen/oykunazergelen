@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Lythae, professionally known as Öykü Naz Ergelen <br><br>🎓 I'm a **3rd year Software Engineering student** Also studying **Web Design and Coding** through an open education program  <br>💻 I enjoy building **modern, clean, responsive** web interfaces  <br>🚀 Currently working on my **portfolio website** and beginner full-stack projects  <br>📚 Learning: **HTML, CSS, JavaScript, Node.js, C, C++ and Linux**<br>
+# Hi, I'm Lythae, professionally known as Öykü Naz Ergelen <br><br>🎓 I'm a **3rd year Software Engineering student** who is also studying **Web Design and Coding** through an open education program  <br>💻 I enjoy building **modern, clean, responsive** web interfaces  <br>🚀 Currently working on my **portfolio website** and beginner full-stack projects  <br>📚 Learning: **HTML, CSS, JavaScript, Node.js, C, C++ and Linux**<br>
 
 
 ## 🌐 Socials:
